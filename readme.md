@@ -410,7 +410,7 @@ Planned or stubbed in the UI:
 
 For questions, collaboration, or support:
 
-**Telegram:** [@microRustyme](https://t.me/microRustyme)
+*Mail*: fiv3fingers.dev@gmail.com
 
 ---
 
