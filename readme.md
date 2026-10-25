@@ -410,8 +410,7 @@ Planned or stubbed in the UI:
 
 For questions, collaboration, or support:
 
-*Mail*: fiv3fingers.dev@gmail.com
-
+[Telegram](https://t.me/fiv3dev)
 ---
 
 ## License
